@@ -1,11 +1,16 @@
 # Hi there 👋, I'm Dream
 
+![Visitors](https://hits.sh/github.com/Dream2503.svg?style=flat-square&label=Visitors&color=blue)
+
+---
+
 ## 🚀 About Me
 
 - 💻 Passionate **developer & problem solver**
-- 🌱 Currently focusing on **Competitive Programming**, and **Open Source**
+- 🌱 Currently focusing on **Competitive Programming** and **Open Source**
 - 🧩 Strong in **C++**, **Python**, and **Data Structures & Algorithms**
 - 📊 Love analyzing coding stats, improving daily, and sharing knowledge
+- 🎯 Always exploring new tools and technologies to level up
 - ⚡ Fun fact: When I'm not coding, I'm probably debugging life 😅
 
 ---
@@ -22,9 +27,16 @@
 
 ---
 
-## 📈 GitHub Stats
+## 🏅 GitHub Stats & Top Languages
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dream2503&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dream2503&layout=compact&langs_count=8&theme=dark&hide=Jupyter%20Notebook)
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Dream2503/Dream2503/blob/main/snake.svg)
 
 ---
 
@@ -37,7 +49,9 @@
 ## 🔗 Connect With Me
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode)](https://leetcode.com/dream2503)  
-[![wakatime](https://wakatime.com/badge/user/1b593144-b3d6-4ba2-a778-6f2481bab639.svg)](https://wakatime.com/@1b593144-b3d6-4ba2-a778-6f2481bab639)
+[![WakaTime](https://wakatime.com/badge/user/1b593144-b3d6-4ba2-a778-6f2481bab639.svg)](https://wakatime.com/@1b593144-b3d6-4ba2-a778-6f2481bab639)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/Dream2503)
+
 ---
 
 ⭐️ From [Dream2503](https://github.com/Dream2503)
