@@ -1,7 +1,5 @@
 # Hi there 👋, I'm Dream
 
-![Visitors](https://hits.sh/github.com/Dream2503.svg?style=flat-square&label=Visitors&color=blue)
-
 ---
 
 ## 🚀 About Me
