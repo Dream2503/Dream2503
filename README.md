@@ -1,7 +1,6 @@
 # Hi there 👋, I'm Dream
 
 ---
-
 ## 🚀 About Me
 
 - 💻 Passionate **developer & problem solver**
@@ -12,32 +11,31 @@
 - ⚡ Fun fact: When I'm not coding, I'm probably debugging life 😅
 
 ---
-
 ## 📊 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/dream2503?theme=dark&font=Karma&ext=contest)
 
 ---
-
 ## ⏱ WakaTime Top 10 Languages
 
-![WakaTime Languages](https://github-readme-stats.vercel.app/api/wakatime?username=dream2503&layout=compact&langs_count=10&theme=dark)
+![WakaTime Languages](https://github-readme-stats.vercel.app/api/wakatime?username=dream2503&layout=compact&langs_count=12&theme=dark)
 
 ---
-
-## 🏅 GitHub Stats & Top Languages
+## 🏅 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dream2503&show_icons=true&theme=dark)
+
+---
+## 🏅 Top Languages
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dream2503&layout=compact&langs_count=8&theme=dark&hide=Jupyter%20Notebook)
 
 ---
-
 ## 🏆 GitHub Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Dream2503&theme=onedark&no-frame=true&row=1&column=6)
 
 ---
-
 ## 🔗 Connect With Me
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode)](https://leetcode.com/dream2503)  
@@ -45,5 +43,3 @@
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/Dream2503)
 
 ---
-
-⭐️ From [Dream2503](https://github.com/Dream2503)
