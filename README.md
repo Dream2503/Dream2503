@@ -13,27 +13,27 @@
 ---
 ## 📊 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/dream2503?theme=dark&font=Karma&ext=contest)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/dream2503?theme=dark&font=Karma&ext=contest)](https://leetcode.com/u/dream2503)
 
 ---
 ## ⏱ WakaTime Top 10 Languages
 
-![WakaTime Languages](https://github-readme-stats.vercel.app/api/wakatime?username=dream2503&layout=compact&langs_count=12&theme=dark)
+[![WakaTime Languages](https://github-readme-stats.vercel.app/api/wakatime?username=dream2503&layout=compact&langs_count=12&theme=dark)](https://wakatime.com/@1b593144-b3d6-4ba2-a778-6f2481bab639)
 
 ---
 ## 🏅 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dream2503&show_icons=true&theme=dark)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dream2503&show_icons=true&theme=dark)](https://github.com/Dream2503)
 
 ---
 ## 🏅 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dream2503&layout=compact&langs_count=8&theme=dark&hide=Jupyter%20Notebook)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dream2503&layout=compact&langs_count=8&theme=dark&hide=Jupyter%20Notebook)](https://github.com/Dream2503)
 
 ---
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Dream2503&theme=onedark&no-frame=true&row=1&column=6)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Dream2503&theme=onedark&no-frame=true&row=1&column=6)](https://github.com/Dream2503)
 
 ---
 ## 🔗 Connect With Me
