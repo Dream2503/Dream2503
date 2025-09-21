@@ -32,12 +32,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/Dream2503/Dream2503/blob/main/snake.svg)
-
----
-
 ## 🏆 GitHub Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Dream2503&theme=onedark&no-frame=true&row=1&column=6)
