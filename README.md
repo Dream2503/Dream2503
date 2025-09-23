@@ -26,6 +26,9 @@
     </a>&nbsp;&nbsp;
     <a href="https://www.python.org/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+    </a>&nbsp;&nbsp;
+    <a href="https://en.wikipedia.org/wiki/X86-64#Assembly_language">
+        <img src="https://www.pngkey.com/png/detail/479-4794953_assembly-x86-x86-icon.png" alt="x86-64 Assembly" width="50" height="50"/>
     </a>
 </p>
 
