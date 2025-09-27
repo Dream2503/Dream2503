@@ -1,34 +1,32 @@
 name: Generate Snake
 
 on:
-    schedule:
-        - cron: "0 */6 * * *" # every 6 hours
-    workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
 
 permissions:
-    contents: write
+  contents: write
 
 jobs:
-    build:
-        runs-on: ubuntu-latest
-        steps:
-            - name: Checkout repo
-              uses: actions/checkout@v3
-              with:
-                  persist-credentials: true
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: true
 
-            - name: Generate snake
-              uses: Platane/snk@v3
-              with:
-                  github_user_name: ${{ github.repository_owner }}
-                  outputs: dist/snake.svg
+      - name: Generate snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: assets/snake.svg
 
-            - name: Commit snake to main
-              run: |
-                  mkdir -p assets
-                  cp dist/snake.svg assets/snake.svg
-                  git config user.name "github-actions[bot]"
-                  git config user.email "github-actions[bot]@users.noreply.github.com"
-                  git add assets/snake.svg
-                  git commit -m "Update snake.svg" || echo "No changes to commit"
-                  git push
+      - name: Commit snake
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/snake.svg
+          git commit -m "Update snake.svg" || echo "No changes to commit"
+          git push
