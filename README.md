@@ -84,7 +84,7 @@
 
 ## 🐍 Contribution Snake
 
-![GitHub Snake Dark](https://raw.githubusercontent.com/Dream2503/Dream2503/main/dist/snake.svg)
+![GitHub Snake](./assets/snake.svg)
 
 
 ## 🏆 GitHub Trophies
