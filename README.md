@@ -84,7 +84,7 @@
 
 ## 🐍 Contribution Snake
 
-![GitHub Snake](assets/snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Dark](./assets/snake-dark.svg)
 
 
 ## 🏆 GitHub Trophies
