@@ -21,7 +21,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: assets/snake.svg
+          outputs: assets/snake-dark.svg?palette=github-dark
 
       - name: Commit snake
         run: |
