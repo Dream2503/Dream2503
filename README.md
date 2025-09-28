@@ -60,8 +60,6 @@
     </a>
 </p>
 
----
-
 ## 📊 LeetCode Stats
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/dream2503?theme=dark&font=Karma&ext=contest)](https://leetcode.com/u/dream2503)
@@ -91,12 +89,8 @@
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Dream2503&theme=onedark&no-frame=true&row=1&column=6)](https://github.com/Dream2503)
 
----
-
 ## 🔗 Connect With Me
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode)](https://leetcode.com/dream2503)  
 [![WakaTime](https://wakatime.com/badge/user/1b593144-b3d6-4ba2-a778-6f2481bab639.svg)](https://wakatime.com/@1b593144-b3d6-4ba2-a778-6f2481bab639)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/Dream2503)
-
----
