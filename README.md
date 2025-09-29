@@ -7,7 +7,7 @@
 - 🧩 Strong in **C++**, **Python**, and **Data Structures & Algorithms**
 - 📊 Love analyzing coding stats, improving daily, and sharing knowledge
 - 🎯 Always exploring new tools and technologies to level up
-- ⚡ Fun fact: Debugging is my cardio
+- ⚡ Fun fact: Debugging is my daily cardio
 
 
 ## ⚒️ Tech Stack
