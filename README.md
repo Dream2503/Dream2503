@@ -87,7 +87,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Dream2503&theme=onedark&no-frame=true&row=1&column=6)](https://github.com/Dream2503)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Dream2503&theme=onedark&no-frame=true&row=1&column=5)](https://github.com/Dream2503)
 
 ## 🔗 Connect With Me
 
