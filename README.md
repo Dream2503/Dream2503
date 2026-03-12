@@ -67,27 +67,23 @@
 
 ## ⏱ WakaTime Top 10 Languages
 
-[![WakaTime Languages](https://github-readme-stats.vercel.app/api/wakatime?username=dream2503&layout=compact&langs_count=10&theme=dark)](https://wakatime.com/@1b593144-b3d6-4ba2-a778-6f2481bab639)
+![WakaTime Languages](assets/wakatime.svg)
 
 
 ## 🏅 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dream2503&show_icons=true&theme=dark)](https://github.com/Dream2503)
+![GitHub Stats](assets/github-stats.svg)
 
 
 ## 🏅 Top Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dream2503&layout=compact&langs_count=8&theme=dark&hide=Jupyter%20Notebook)](https://github.com/Dream2503)
+![Top Languages](assets/top-langs.svg)
 
 
 ## 🐍 Contribution Snake
 
 ![GitHub Snake Dark](./assets/snake-dark.svg)
 
-
-## 🏆 GitHub Trophies
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Dream2503&theme=onedark&no-frame=true&row=1&column=5)](https://github.com/Dream2503)
 
 ## 🔗 Connect With Me
 
