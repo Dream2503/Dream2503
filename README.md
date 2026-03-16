@@ -67,22 +67,22 @@
 
 ## ⏱ WakaTime Top 10 Languages
 
-![WakaTime Languages](assets/wakatime.svg)
+[![WakaTime Languages](assets/wakatime.svg)](wakatime.com/@1b593144-b3d6-4ba2-a778-6f2481bab639)
 
 
 ## 🏅 GitHub Stats
 
-![GitHub Stats](assets/github-stats.svg)
+[![GitHub Stats](assets/github-stats.svg)](https://github.com/Dream2503)
 
 
 ## 🏅 Top Languages
 
-![Top Languages](assets/top-langs.svg)
+[![Top Languages](assets/top-langs.svg)](wakatime.com/@1b593144-b3d6-4ba2-a778-6f2481bab639)
 
 
 ## 🐍 Contribution Snake
 
-![GitHub Snake Dark](./assets/snake-dark.svg)
+[![GitHub Snake Dark](assets/snake-dark.svg)](https://github.com/Dream2503)
 
 
 ## 🔗 Connect With Me
