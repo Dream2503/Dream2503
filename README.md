@@ -67,7 +67,7 @@
 
 ## ⏱ WakaTime Top 10 Languages
 
-[![WakaTime Languages](assets/wakatime.svg)](wakatime.com/@1b593144-b3d6-4ba2-a778-6f2481bab639)
+[![WakaTime Languages](assets/wakatime.svg)](https://wakatime.com/@1b593144-b3d6-4ba2-a778-6f2481bab639)
 
 
 ## 🏅 GitHub Stats
@@ -77,7 +77,7 @@
 
 ## 🏅 Top Languages
 
-[![Top Languages](assets/top-langs.svg)](wakatime.com/@1b593144-b3d6-4ba2-a778-6f2481bab639)
+[![Top Languages](assets/top-langs.svg)](https://wakatime.com/@1b593144-b3d6-4ba2-a778-6f2481bab639)
 
 
 ## 🐍 Contribution Snake
